@@ -1,8 +1,7 @@
 ## Welcome to deadgeeker’s Pages
-
-You can use the [editor on GitHub](https://github.com/deadGeeker/deadgeeker.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  So so happy that i own my first page of my life . Just like my new baby borned.
+  though it's not perfect enough , but it will be better for this reason..
+  Stay hungry !! Stay modest!!!
 
 ### Markdown
 
